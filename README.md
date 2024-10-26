@@ -1,4 +1,4 @@
-### Serial plotter ในการพลอตกราฟการติดดับของ LED
+### Serial plotter ในการ plot กราฟการติดดับของ LED
 For more info, check out the YouTube video [here]().
 
 To replicate this, wire up the system as shown below:
