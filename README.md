@@ -8,7 +8,7 @@ To replicate this, wire up the system as shown below:
 
 
 
-![system_diagram](https://github.com/okaisank/Arduino-Serial-Plotter/blob/e2eb12cdaf1079ba3b8405241749e0755d346f84/Arduino%20Serial%20Plotter/Capture%202.PNG)
+![system_diagram](https://github.com/okaisank/Serial_Plotter/blob/b479faaf8dce9d00342256b3cfc9432ac75db286/Capture_pin13.PNG)
 
 
 
