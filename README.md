@@ -1,4 +1,4 @@
-### Pin13-Serial-Plotter
+### Serial plotter ในการพลอตกราฟการติดดับของ LED
 For more info, check out the YouTube video [here]().
 
 To replicate this, wire up the system as shown below:
@@ -7,7 +7,7 @@ To replicate this, wire up the system as shown below:
 
 
 
-
+### Pin13-Serial-Plotter
 ![system_diagram](https://github.com/okaisank/Serial_Plotter/blob/b479faaf8dce9d00342256b3cfc9432ac75db286/Capture_pin13.PNG)
 
 
