@@ -1,4 +1,4 @@
-### Arduino-Serial-Plotter
+### Pin13-Serial-Plotter
 For more info, check out the YouTube video [here]().
 
 To replicate this, wire up the system as shown below:
