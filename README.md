@@ -1,5 +1,5 @@
 ### Serial plotter ในการ plot กราฟการติดดับของ LED
-For more info, check out the YouTube video [here](https://github.com/okaisank/Serial_Plotter/blob/b96a34cf5e8f4342763d70801c44e58cd7d08004/serial_Plotter.ino).
+For more info, Code [here](https://github.com/okaisank/Serial_Plotter/blob/b96a34cf5e8f4342763d70801c44e58cd7d08004/serial_Plotter.ino).
 
 To replicate this, wire up the system as shown below:
 ![system_diagram](https://github.com/okaisank/Serial_Plotter/blob/79f874ffd5b92a15b12dfa17dd78db078ca19547/Capture.PNG)
